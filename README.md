@@ -382,7 +382,7 @@ Add your name here.
 
 Example:
 ```bash
-Sagar Sharma
+Dhawal Pandey
 ```
 
 ---
